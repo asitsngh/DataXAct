@@ -1,0 +1,39 @@
+Problem Statement: Predicting CO Concentration in the Air using Gas Sensor Data
+
+Background:
+Our company is a leading manufacturer of gas sensors, and we are focused on developing advanced solutions for monitoring air quality. One of the key gases of interest 
+is carbon monoxide (CO), which is a highly toxic gas that can have severe health implications if present in high concentrations. We want to leverage the power of 
+data science and machine learning to build accurate models that can predict CO concentration in the air based on gas sensor data.
+
+Problem Statement:
+The objective of this datathon is to develop predictive models that accurately estimate the concentration of carbon monoxide (CO) in the air using gas sensor data. 
+Participants are expected to address the following challenges:
+
+1. Preprocessing:
+Gas sensor data can be noisy and subject to variations due to environmental factors and other sources of interference. 
+Participants should develop effective strategies for preprocessing the data to ensure its quality and reliability.
+
+2. Model Development and Selection:
+Participants should build machine learning models capable of predicting CO concentration accurately. 
+Various approaches, such as regression models, time series models, or ensemble methods, can be explored. 
+The models should be evaluated using appropriate performance metrics and compared to identify the most effective approach.
+
+3. Model Interpretability:
+While accuracy is essential, it is also crucial to understand the factors influencing the CO concentration predictions. 
+Participants should strive to develop models that provide interpretable insights, allowing users to understand the contributions of different features or sensors to the predicted
+ CO concentration.
+
+Expected Deliverables:
+Participants should aim to develop a predictive model capable of accurately estimating CO concentration in the air based on gas sensor data. 
+The deliverables should include well-documented code, detailed explanations of the models used, and an evaluation of the model's performance, 
+including metrics such as mean squared error and R2 score.
+
+Evaluation Criteria:
+Submissions will be evaluated based on the following criteria:
+
+1. Prediction Accuracy (70% Round 2): The proposed models should demonstrate high accuracy in predicting CO concentration, as measured by appropriate evaluation metrics.
+
+2. Model Interpretability (15% Round 2): The extent to which the models provide interpretable insights into the factors influencing the CO concentration predictions will be considered.
+
+3. Documentation and Presentation (15% Round 1): The clarity of the documentation, including code structure, feature engineering techniques, model selection, and evaluation results, 
+will be assessed.
